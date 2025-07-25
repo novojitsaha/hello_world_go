@@ -1,0 +1,3 @@
+module github.com/novojitsaha/hello_world_go
+
+go 1.24.5
